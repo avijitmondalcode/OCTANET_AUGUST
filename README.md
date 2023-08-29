@@ -1,6 +1,6 @@
 # OCTANET_AUGUST
 
-# Landing Page Project
+# TASK 1 : Landing Page Project
 
 Welcome to the Landing Page project! This project is designed for beginners to learn the basics of web development using HTML and CSS. By creating an impressive landing page, you'll gain foundational skills in structuring web content, styling, and layout arrangement.
 
